@@ -40,11 +40,6 @@
 
 ---
 
-## 🌐 3D Contribution Graph  
-![3D Graph](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
-
----
-
 ## 💬 Random AI Quote  
 > *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* – Edsger Dijkstra  
 
