@@ -7,11 +7,11 @@
 ---
 
 ## 🧑‍💻 About Me  
-💡 Passionate **AI Engineer** who loves transforming data into impactful solutions.  
-🚀 Always exploring the intersection of **Machine Learning**, **Data Science**, and **Real-World Applications**.  
-🌱 Currently diving deeper into **LLM fine-tuning** and **Scalable AI Systems**.  
-💬 Ask me about **AI models, APIs, and data-driven decision making**.  
-⚡ Fun fact: I can spend hours tweaking models for **0.5% accuracy gain** – it’s worth it! 😄  
+💡 Passionate **AI Engineer** who loves turning data into meaningful intelligence.  
+🚀 Always exploring **Machine Learning**, **NLP**, and **Scalable AI Systems**.  
+🌱 Currently learning **LLM fine-tuning & multi-modal AI**.  
+💬 Ask me about **model optimization, APIs, and deployment**.  
+⚡ Fun fact: I can spend hours tweaking hyperparameters for that extra **0.5% accuracy**.  
 
 ---
 
@@ -33,30 +33,35 @@
 
 ---
 
-## 🎯 My Mission  
-> *"To build intelligent systems that solve real-world problems, empower people, and make technology more human-friendly."*
-
----
-
-## 📊 GitHub Activity  
+## 📊 GitHub Stats  
 ![Israr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=israrhussain20110&theme=tokyonight&hide_border=true)  
 
 ---
 
-## 🌍 Let’s Connect  
+## 🌐 3D Contribution Graph  
+![3D Graph](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
+
+---
+
+## 💬 Random AI Quote  
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* – Edsger Dijkstra  
+
+---
+
+## 🎯 Goals for 2025  
+- 🚀 Deploy a **multi-model AI pipeline** in production  
+- 📚 Publish an **AI research paper** on NLP model optimization  
+- 🤝 Collaborate with **global AI teams** on open-source projects  
+
+---
+
+## 🌍 Connect with Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedisrar20110@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israr-hussain-40561a299)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrhussain20110)  
 
 ---
 
-### ✨ Fun Corner  
-🎯 Current Goal: Deploy my first **multi-model AI pipeline** in production.  
-📚 Reading: *"Deep Learning with Python"* by François Chollet.  
-☕ Powered by: Coffee & curiosity.  
-
----
-
-💡 *If you’ve read this far, we’re already friends. Let’s collaborate and build something amazing!* 🚀
+💡 *If you’ve scrolled this far, we’re already friends. Let’s build something amazing together!* 🚀
