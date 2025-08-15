@@ -38,12 +38,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=israrhussain20110&theme=tokyonight&hide_border=true)  
 
----
-
 ## 💬 Random AI Quote  
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* – Edsger Dijkstra  
+<!--START_QUOTE-->
+*"AI is not just about making machines smarter, it's about making people smarter too."* – Unknown  
+<!--END_QUOTE-->
 
----
 
 ## 🎯 Goals for 2025  
 - 🚀 Deploy a **multi-model AI pipeline** in production  
