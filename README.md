@@ -1,66 +1,86 @@
-<!-- Top Animated Header -->
+# Hi there! 👋 I'm Israr Hussain
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=450&lines=AI+Engineer;ML+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+
+Aspiring AI Engineer from Islamabad, passionate about building intelligent systems and exploring the potential of data and machine learning. Always learning, experimenting, and collaborating on projects that make an impact.  
+
+---
+
+## 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Israr%20Hussain&fontSize=56&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&color=gradient&animationDuration=2000" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
 </div>
 
 ---
 
-### 🛠 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-</div>
+## 📊 GitHub Stats
 
----
-
-### 🌍 Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/israr-hussain-40561a299" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-</div>
-
----
-
-### 💡 Fun Section
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-### 📰 Recent Medium Posts
+## ⚡ Featured Projects
+
 <div align="center">
-  <a href="https://medium.com/@yourusername/0" target="_blank">
-    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" alt="Medium post 1" />
+
+### 🌟 [Image Classification CNN](https://github.com/israrhussain20110/image-classification-cnn)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=israrhussain20110&repo=image-classification-cnn&theme=tokyonight)](https://github.com/israrhussain20110/image-classification-cnn)
+
+**Python • TensorFlow • Keras**
+
+---
+
+### 🔥 [NLP Toolkit](https://github.com/israrhussain20110/nlp-toolkit)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=israrhussain20110&repo=nlp-toolkit&theme=tokyonight)](https://github.com/israrhussain20110/nlp-toolkit)
+
+**Python • spaCy • scikit-learn**
+
+---
+
+### ⚡ [Predictive Analytics ML](https://github.com/israrhussain20110/predictive-analytics-ml)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=israrhussain20110&repo=predictive-analytics-ml&theme=tokyonight)](https://github.com/israrhussain20110/predictive-analytics-ml)
+
+**Python • Pandas • NumPy • scikit-learn**
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/israr-hussain-40561a299" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourusername/1" target="_blank">
-    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/1" alt="Medium post 2" />
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourusername/2" target="_blank">
-    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/2" alt="Medium post 3" />
+  <a href="https://github.com/israrhussain20110" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedisrar20110@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<!-- Bottom Wave Capsule -->
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&stroke=-&theme=cobalt" />
+<div align="center">
+  <sub>💡 "Code is poetry, and every commit tells a story"</sub>
 </div>
