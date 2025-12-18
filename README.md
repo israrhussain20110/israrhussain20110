@@ -1,61 +1,100 @@
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=israrhussain20110&color=blue)
+# Israr Hussain
+AI Engineer focused on **applied LLM systems** and **data-driven business analytics**.
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Israr+Hussain;AI+Engineer+%7C+ML+Developer+%7C+Data+Scientist;I+Turn+Data+Into+Intelligence;Always+Learning+%26+Innovating)](https://git.io/typing-svg)
-
----
-
-## 🧑‍💻 About Me  
-💡 Passionate **AI Engineer** who loves turning data into meaningful intelligence.  
-🚀 Always exploring **Machine Learning**, **NLP**, and **Scalable AI Systems**.  
-🌱 Currently learning **LLM fine-tuning & multi-modal AI**.  
-💬 Ask me about **model optimization, APIs, and deployment**.  
-⚡ Fun fact: I can spend hours tweaking hyperparameters for that extra **0.5% accuracy**.  
+I build production-oriented AI solutions where correctness, clarity, and measurable impact matter more than demos or buzzwords.
 
 ---
 
-## 🛠 My Tech Universe  
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+## What I Build
 
-**AI & ML Frameworks**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)  
+### AI Chatbot Systems
+End-to-end chatbot implementations designed for real-world usage.
 
-**Tools & Databases**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+- LLM-powered conversational systems
+- Structured prompts with explicit constraints and guardrails
+- API-first backend architecture
+- Emphasis on latency, reliability, and predictable behavior
 
----
-
-## 📊 GitHub Stats  
-![Israr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=israrhussain20110&theme=tokyonight&hide_border=true)  
-
-## 💬 Random AI Quote  
-<!--START_QUOTE-->
-*"AI is not just about making machines smarter, it's about making people smarter too."* – Unknown  
-<!--END_QUOTE-->
-
-
-## 🎯 Goals for 2025  
-- 🚀 Deploy a **multi-model AI pipeline** in production  
-- 📚 Publish an **AI research paper** on NLP model optimization  
-- 🤝 Collaborate with **global AI teams** on open-source projects  
+Use cases:
+- Domain-specific question answering
+- Internal knowledge systems
+- Operational and customer support automation
 
 ---
 
-## 🌍 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedisrar20110@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israr-hussain-40561a299)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrhussain20110)  
+### Pharmaceutical Analytics & KPI Systems
+Complete analytics pipelines that transform raw pharmaceutical data into **decision-ready KPIs**.
+
+- Data cleaning, validation, and transformation
+- KPI definition aligned with business and operational needs
+- Analytical outputs focused on interpretability
+- Accuracy prioritized over visualization noise
+
+Typical KPI areas:
+- Sales and demand trends
+- Product and portfolio performance
+- Operational efficiency metrics
+- Market-level insights
 
 ---
 
-💡 *If you’ve scrolled this far, we’re already friends. Let’s build something amazing together!* 🚀
+## Core Capabilities
+
+**Programming**
+- Python — backend services, analytics pipelines, AI logic
+
+**AI / ML**
+- LLM-based chatbot workflows
+- Prompt engineering with constraints
+- Model integration and evaluation
+
+**Backend Engineering**
+- FastAPI
+- Asynchronous processing
+- API design with validation and error handling
+
+**Data & Analytics**
+- KPI modeling
+- Business-aligned analysis
+- Structured reporting for stakeholders
+
+---
+
+## Flagship Projects
+
+### AI Chatbot Implementation
+A production-ready chatbot system built for domain-specific applications.
+
+- Clean separation of concerns
+- Controlled and testable prompt behavior
+- Scalable backend structure
+
+See the repository for architecture, data flow, and implementation details.
+
+---
+
+### Pharmaceutical KPI Analysis System
+An end-to-end pharmaceutical analytics workflow focused on actionable KPIs.
+
+- Raw data to final metrics pipeline
+- Transparent assumptions and calculations
+- Clear analytical outputs for decision-making
+
+Designed for real operational insight, not academic exercises.
+
+---
+
+## How I Approach Engineering
+- Systems before features
+- Explicit assumptions and trade-offs
+- Minimal tools, maximum clarity
+- If it can’t be explained clearly, it isn’t finished
+
+---
+
+## Contact
+- GitHub: https://github.com/israrhussain20110
+- LinkedIn: https://www.linkedin.com/in/israr-hussain-40561a299
+- Email: ahmedisrar20110@gmail.com
+
+I’m interested in serious engineering problems and applied AI work — not hype-driven experimentation.
