@@ -1,3 +1,8 @@
+<!-- Capsule Header with Name -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Israr%20Hussain&fontSize=48&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=israrhussain20110&color=blue)
 
@@ -36,7 +41,7 @@ I believe in **clarity, efficiency, and measurable impact**, designing systems t
 ## 📊 GitHub Stats
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight&hide_title=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=donut-vertical&theme=tokyonight&hide_title=true" />
 </div>
 
 ---
@@ -48,4 +53,4 @@ I believe in **clarity, efficiency, and measurable impact**, designing systems t
 
 ---
 
-💡 *Focused, professional, and impactful — I build AI systems that matter.*
+💡 *Professional, minimalist, and visually striking — designed to leave an impression without revealing details.*
