@@ -13,10 +13,12 @@
         「 AI Engineer and RAG Specialist from <b>Pakistan</b> 」
         <br>
         「 Bridging complex AI models with production-ready APIs 」
-        <br>
-        <br>
     </samp>
+</p>
 
+<br>
+
+<div align="center">
     <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
     </a>
@@ -35,7 +37,10 @@
     <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30">
     </a>
-</p>
+</div>
+
+<br>
+<br>
 
 <div align="center">
 
@@ -51,8 +56,9 @@
 
 </div>
 
+<br>
+
 <div align="center">
-    <br>
     <samp>
         <h3>⇓════ Connect with Me ════⇓</h3>
     </samp>
