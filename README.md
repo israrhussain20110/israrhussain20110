@@ -3,8 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Israr%20Hussain&fontSize=56&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=24&descAlign=50&descAlignY=50&textBg=false&color=gradient&animationDuration=2000" />
 </div>
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&width=750&lines=Hi+%F0%9F%91%8B+I'm+Israr+Hussain;AI+Engineer+%7C+ML+%7C+Data+Systems;Focused+on+Impact+%26+Innovation)](https://git.io/typing-svg)
+<!-- Title & Intro -->
+<h3 align="center">
+    <samp>
+        &gt; Hello, I am 
+        <b><a href="https://github.com/israrhussain20110" target="_blank">Israr Hussain</a></b>
+    </samp>
+</h3>
+
+<p align="center">
+    <samp>
+        「 AI Engineer & Data Scientist from <b>Pakistan</b> 」<br>
+        「 Exploring scalable AI systems, NLP, and model optimization 」<br>
+        「 Always focused on impact & innovation 」<br>
+    </samp>
+</p>
 
 ---
 
@@ -40,4 +53,4 @@
 
 ---
 
-💡 *Ultra-premium, minimalist, and visually dynamic — designed to make a strong first impression without revealing any details.*
+💡 *Clean, dynamic, and premium — designed to leave a strong first impression without revealing details.*
