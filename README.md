@@ -1,56 +1,66 @@
-<!-- Premium Animated Capsule Header -->
+<!-- Top Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Israr%20Hussain&fontSize=56&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=24&descAlign=50&descAlignY=50&textBg=false&color=gradient&animationDuration=2000" />
-</div>
-
-<!-- Title & Intro -->
-<h3 align="center">
-    <samp>
-        &gt; Hello, I am 
-        <b><a href="https://github.com/israrhussain20110" target="_blank">Israr Hussain</a></b>
-    </samp>
-</h3>
-
-<p align="center">
-    <samp>
-        「 AI Engineer & Data Scientist from <b>Pakistan</b> 」<br>
-        「 Exploring scalable AI systems, NLP, and model optimization 」<br>
-        「 Always focused on impact & innovation 」<br>
-    </samp>
-</p>
-
----
-
-## 🛠 Tech Stack
-<div align="center">
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Israr%20Hussain&fontSize=56&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&color=gradient&animationDuration=2000" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=donut-vertical&theme=tokyonight&hide_title=true" />
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
 </div>
 
 ---
 
-## 🌍 Connect with Me
-<div align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedisrar20110@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israr-hussain-40561a299)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrhussain20110)
+### 🌍 Connect with Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/israr-hussain-40561a299" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://discord.gg/yourdiscord" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
 </div>
 
 ---
 
-💡 *Clean, dynamic, and premium — designed to leave a strong first impression without revealing details.*
+### 💡 Fun Section
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+</div>
+
+---
+
+### 📰 Recent Medium Posts
+<div align="center">
+  <a href="https://medium.com/@yourusername/0" target="_blank">
+    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" alt="Medium post 1" />
+  </a>
+  <a href="https://medium.com/@yourusername/1" target="_blank">
+    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/1" alt="Medium post 2" />
+  </a>
+  <a href="https://medium.com/@yourusername/2" target="_blank">
+    <img style="width:100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/2" alt="Medium post 3" />
+  </a>
+</div>
+
+---
+
+<!-- Bottom Wave Capsule -->
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&stroke=-&theme=cobalt" />
+</div>
