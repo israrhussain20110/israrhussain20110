@@ -19,27 +19,19 @@
 <br>
 
 <div align="center">
-    <!-- Core Skills -->
     <b>Core Skills:</b>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"></a>
-    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"></a>
-    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=python"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=pytorch"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=fastapi"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=langchain"><img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="25"></a>
     <br>
-    <!-- Tools -->
     <b>Tools & DevOps:</b>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=docker"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories&q=mongo"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"></a>
+    <a href="https://github.com/israrhussain20110?tab=repositories"><img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="25"></a>
 </div>
 
 <br>
-
-<!-- Hover effect CSS -->
-<style>
-  table tr:hover {background-color: #f0f0f0; transition: 0.3s;}
-  a:hover {text-decoration: underline;}
-</style>
 
 <div align="center">
     <h3>💼 Professional Experience</h3>
@@ -54,8 +46,8 @@
                 @ DevGate <i>(Oct 2025 - Present)</i>
             </td>
             <td>
-                - Designed and deployed **RAG pipelines** serving 50+ users concurrently.<br>
-                - Built **async FastAPI microservices** reducing API latency by 30%.<br>
+                - Designed and deployed <b>RAG pipelines</b> serving 50+ users concurrently.<br>
+                - Built <b>async FastAPI microservices</b> reducing API latency by 30%.<br>
                 - Implemented vector search & caching for high-throughput queries.
             </td>
         </tr>
@@ -65,7 +57,7 @@
                 @ CoreFlow Dev <i>(Jun 2025 - Present)</i>
             </td>
             <td>
-                - Automated ML pipelines for **batch analytics & forecasting**, reducing manual effort by 50%.<br>
+                - Automated ML pipelines for <b>batch analytics & forecasting</b>, reducing manual effort by 50%.<br>
                 - Integrated logging & metrics to monitor pipeline health.
             </td>
         </tr>
@@ -75,7 +67,7 @@
                 @ Appaura.net <i>(Aug 2025 - Oct 2025)</i>
             </td>
             <td>
-                - Developed authentication & analytics APIs using **MongoDB**.<br>
+                - Developed authentication & analytics APIs using <b>MongoDB</b>.<br>
                 - Optimized query performance by 40% through indexing and aggregation pipelines.
             </td>
         </tr>
@@ -92,25 +84,25 @@
             <th width="500">Description & Stack</th>
         </tr>
         <tr>
-            <td><b>🤖 RAG ChatBot</b></td>
+            <td><a href="https://github.com/israrhussain20110?tab=repositories"><b>🤖 RAG ChatBot</b></a></td>
             <td>
-                Production-ready **retrieval-augmented chat pipeline** with streaming responses.<br>
+                Production-ready <b>retrieval-augmented chat pipeline</b> with streaming responses.<br>
                 <i>Stack: FastAPI, FAISS, Transformers</i><br>
                 <b>Impact:</b> Reduced average response time by 35%, supports 100+ concurrent users.
             </td>
         </tr>
         <tr>
-            <td><b>🦴 Knee Osteoporosis</b></td>
+            <td><a href="https://github.com/israrhussain20110?tab=repositories"><b>🦴 Knee Osteoporosis</b></a></td>
             <td>
-                Medical image analysis model achieving **85% accuracy** on validation dataset.<br>
+                Medical image analysis model achieving <b>85% accuracy</b> on validation dataset.<br>
                 <i>Stack: CNN, VGG16, Python</i><br>
                 <b>Impact:</b> Enabled faster diagnosis workflow, reducing evaluation time by 40%.
             </td>
         </tr>
         <tr>
-            <td><b>💊 Pharmacy Analytics</b></td>
+            <td><a href="https://github.com/israrhussain20110?tab=repositories"><b>💊 Pharmacy Analytics</b></a></td>
             <td>
-                Automated KPI reporting service reducing **manual reporting work by 50%**.<br>
+                Automated KPI reporting service reducing <b>manual reporting work by 50%</b>.<br>
                 <i>Stack: MongoDB Aggregations, Python</i><br>
                 <b>Impact:</b> Streamlined pharmacy data pipeline, improving report accuracy.
             </td>
@@ -121,6 +113,7 @@
 <br>
 
 <div align="center">
+
 | **GitHub Statistics** | **Top Languages** |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" /> |
@@ -130,6 +123,7 @@
 | **Monthly Contribution Graph** |
 | :---: |
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=israrhussain20110&bg_color=transparent&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true&hide_title=true" width="800" /> |
+
 </div>
 
 <br>
