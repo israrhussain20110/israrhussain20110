@@ -19,22 +19,22 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
     </a>
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30">
     </a>
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
     </a>
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30">
     </a>
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30">
     </a>
-    <a href="https://github.com/israrhussain20110?tab=repositories" target="_blank">
+    <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30">
     </a>
 </div>
@@ -42,7 +42,8 @@
 <br>
 
 <div align="center">
-    <h3>💼 Professional Experience</h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=💼+Professional+Experience" alt="Professional Experience" />
+    
     <table align="center">
         <tr>
             <th width="300">Role & Company</th>
@@ -50,21 +51,21 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/israrhussain20110" target="_blank"><b>AI Engineer Intern</b></a><br>
+                <b>AI Engineer Intern</b><br>
                 @ DevGate <i>(Oct 2025 - Present)</i>
             </td>
             <td>Built end-to-end RAG pipelines & async FastAPI microservices.</td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/israrhussain20110" target="_blank"><b>Assoc. ML Engineer</b></a><br>
+                <b>Assoc. ML Engineer</b><br>
                 @ CoreFlow Dev <i>(Jun 2025 - Present)</i>
             </td>
             <td>Developed automated ML pipelines for batch analytics & forecasting.</td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/israrhussain20110" target="_blank"><b>Backend Developer</b></a><br>
+                <b>Backend Developer</b><br>
                 @ Appaura.net <i>(Aug 2025 - Oct 2025)</i>
             </td>
             <td>Implemented authentication & analytics APIs using MongoDB.</td>
@@ -75,22 +76,23 @@
 <br>
 
 <div align="center">
-    <h3>🚀 Featured Projects</h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
+
     <table align="center">
         <tr>
             <th width="200">Project</th>
             <th width="500">Description & Stack</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/israrhussain20110?tab=repositories" target="_blank"><b>🤖 RAG ChatBot</b></a></td>
+            <td><b>🤖 RAG ChatBot</b></td>
             <td>Production-ready retrieval pipeline with streaming responses.<br><i>Stack: FastAPI, FAISS, Transformers</i></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/israrhussain20110?tab=repositories" target="_blank"><b>🦴 Knee Osteoporosis</b></a></td>
+            <td><b>🦴 Knee Osteoporosis</b></td>
             <td>Medical image analysis model achieving 85% accuracy.<br><i>Stack: CNN, VGG16, Python</i></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/israrhussain20110?tab=repositories" target="_blank"><b>💊 Pharmacy Analytics</b></a></td>
+            <td><b>💊 Pharmacy Analytics</b></td>
             <td>Automated KPI reporting service reducing manual work by 50%.<br><i>Stack: MongoDB Aggregations, Python</i></td>
         </tr>
     </table>
