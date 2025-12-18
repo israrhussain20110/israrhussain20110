@@ -15,7 +15,7 @@
 I build **real-world AI systems**, not demos. My focus is on:
 
 - **LLM Chatbot Systems** — scalable, reliable, API-first, structured prompts and guardrails  
-- **Pharmaceutical KPI Analytics** — end-to-end pipelines transforming raw data into actionable metrics  
+- **Pharmaceutical KPI Analytics** — end-to-end pipelines converting raw data into actionable metrics  
 
 I prioritize **clarity, correctness, and measurable outcomes**. Systems must survive production, not just look good in notebooks.
 
@@ -48,6 +48,29 @@ I prioritize **clarity, correctness, and measurable outcomes**. Systems must sur
 
 ---
 
+## 📈 Contribution Graphs
+
+<div align="center">
+  <h4>Monthly Contribution Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=israrhussain20110&bg_color=0D1117&color=00F7FF&line=2aa889&point=99d1ce&area=true&hide_border=true&hide_title=true" width="820"/>
+</div>
+
+<div align="center">
+  <h4>Weekly Wakatime Stats</h4>
+  <table>
+    <tr>
+      <td>
+        <img src="https://wakatime.com/share/@your-wakatime-username/your-left-stat.svg" width="400" />
+      </td>
+      <td>
+        <img src="https://wakatime.com/share/@your-wakatime-username/your-right-stat.svg" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -70,10 +93,10 @@ I prioritize **clarity, correctness, and measurable outcomes**. Systems must sur
 - Domain-specific Q&A and operational support
 
 ### 💊 Pharmaceutical KPI Analytics
-- End-to-end data processing pipeline
+- End-to-end data pipeline
 - Actionable business KPIs
 - Data cleaning, aggregation, validation
-- Dashboards and reports for decision-making
+- Clear dashboards for decision-making
 
 ---
 
@@ -84,4 +107,4 @@ I prioritize **clarity, correctness, and measurable outcomes**. Systems must sur
 
 ---
 
-💡 *This profile combines visual appeal with real-world AI projects. I build systems that work and produce measurable outcomes.*
+💡 *Visual, professional, and outcome-focused — this profile shows serious AI engineering and analytics work.*
