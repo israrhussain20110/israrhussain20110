@@ -21,7 +21,7 @@
 
 - **AI Engineer Intern @ DevGate:** Building low-latency RAG pipelines and FastAPI microservices.  
 - **Associate ML Engineer @ CoreFlow Dev:** Developing automated ML pipelines for batch analytics and forecasting.  
-- **Education:** BS in Computer Science from Iqra University (GPA 3.32).  
+- **Education:** BS in Computer Science from Iqra University.  
 
 ---
 
@@ -45,24 +45,12 @@
 <a href="https://github.com/israrhussain20110/Stock-Price-Forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=israrhussain20110&repo=Stock-Price-Forecasting&theme=tokyonight" /></a>
 </p>
 
----
-
-## 🎓 Certifications & Achievements
-
-![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Associate-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
-![IBM AI Engineering](https://img.shields.io/badge/IBM-AI_Engineering-blue?style=for-the-badge&logo=ibm&logoColor=white)
-![Kaggle Bronze](https://img.shields.io/badge/Kaggle-Bronze-FF9800?style=for-the-badge&logo=kaggle&logoColor=white)
-![Coursera Deep Learning](https://img.shields.io/badge/Coursera-Deep_Learning-0033CC?style=for-the-badge&logo=coursera&logoColor=white)
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/israr-hussain-40561a299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ahmedisrar20110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/israrhussain20110" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
