@@ -1,16 +1,3 @@
-That is a great idea. While GitHub prevents us from using "true" CSS animations (like glowing rows) for security reasons, we can simulate that **interactive feel** by making your Project Titles and Company Names **clickable links**. This gives them a hover effect (color change + underline) and makes the profile feel much more dynamic and actionable for recruiters.
-
-Here is the **Final, Polished "Interactive" Version**.
-
-### 🌟 Changes in this version:
-
-1. **Interactive Headers:** Project & Company names are now links (placeholders added).
-2. **Optimized Hierarchy:** Experience & Projects are the main visual focus.
-3. **Clean Stats:** Graphs are pushed to the bottom so they don't distract from your actual work.
-
-### ✅ Copy & Paste This Final Code
-
-```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Israr%20Hussain&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
@@ -146,5 +133,3 @@ Here is the **Final, Polished "Interactive" Version**.
 <p align="center">
     ════ ⋆★⋆ ════
 </p>
-
-```
