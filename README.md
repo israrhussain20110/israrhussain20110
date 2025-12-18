@@ -1,10 +1,12 @@
+<!-- Profile Header with Capsule Render -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Israr%20Hussain&fontSize=48&fontColor=FFFFFF&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
 <!-- Profile Picture -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/your-profile-id?v=4" width="120" height="120" style="border-radius:50%;" />
 </div>
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=israrhussain20110&color=blue)
 
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi+%F0%9F%91%8B+I'm+Israr+Hussain;AI+Engineer+%7C+Applied+ML+%7C+Data+Systems;I+Build+Production-Ready+AI+Solutions;Specialized+in+Chatbots+%26+Pharma+Analytics)](https://git.io/typing-svg)
@@ -12,12 +14,12 @@
 ---
 
 ## 🧑‍💻 About Me
-I build **real-world AI systems**, not demos. My focus is on:
+I build **real-world AI systems**, not demos. My expertise is in:
 
-- **LLM Chatbot Systems** — scalable, reliable, API-first, structured prompts and guardrails  
-- **Pharmaceutical KPI Analytics** — end-to-end pipelines converting raw data into actionable metrics  
+- **LLM Chatbot Systems** — structured prompts, guardrails, API-first backend, scalable and reliable  
+- **Pharmaceutical KPI Analytics** — end-to-end pipelines converting raw data into actionable business metrics  
 
-I prioritize **clarity, correctness, and measurable outcomes**. Systems must survive production, not just look good in notebooks.
+I prioritize **clarity, correctness, and measurable outcomes**. My systems are production-grade.
 
 ---
 
@@ -43,7 +45,7 @@ I prioritize **clarity, correctness, and measurable outcomes**. Systems must sur
 ## 📊 GitHub Stats
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=tokyonight&hide_title=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=donut-vertical&theme=tokyonight&hide_title=true" />
 </div>
 
 ---
@@ -107,4 +109,4 @@ I prioritize **clarity, correctness, and measurable outcomes**. Systems must sur
 
 ---
 
-💡 *Visual, professional, and outcome-focused — this profile shows serious AI engineering and analytics work.*
+💡 *This profile combines polished visuals with professional signals — showing real AI engineering and analytics work.*
