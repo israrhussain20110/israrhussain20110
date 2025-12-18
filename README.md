@@ -16,6 +16,25 @@
     </samp>
 </p>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=israrhussain20110&theme=flat&no-frame=true&margin-w=15&no-bg=true" alt="israrhussain20110" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=⚡+Current+Focus+%26+Interests" alt="Current Focus" />
+    <br>
+    <samp>
+    🔭 I’m currently working on <b>Retrieval Augmented Generation (RAG) Systems</b><br>
+    🌱 I’m currently learning <b>Advanced LLM Fine-Tuning & MLOps</b><br>
+    💬 Ask me about <b>Python, FastAPI, and Vector Databases</b><br>
+    ⚡ Fun fact: <b>I can deploy an LLM API in under 5 minutes.</b>
+    </samp>
+</div>
+
 <br>
 
 <div align="center">
@@ -37,65 +56,6 @@
     <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30">
     </a>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=💼+Professional+Experience" alt="Professional Experience" />
-    
-    <table align="center">
-        <tr>
-            <th width="300">Role & Company</th>
-            <th width="400">Key Impact</th>
-        </tr>
-        <tr>
-            <td>
-                <b>AI Engineer Intern</b><br>
-                @ DevGate <i>(Oct 2025 - Present)</i>
-            </td>
-            <td>Built end-to-end RAG pipelines & async FastAPI microservices.</td>
-        </tr>
-        <tr>
-            <td>
-                <b>Assoc. ML Engineer</b><br>
-                @ CoreFlow Dev <i>(Jun 2025 - Present)</i>
-            </td>
-            <td>Developed automated ML pipelines for batch analytics & forecasting.</td>
-        </tr>
-        <tr>
-            <td>
-                <b>Backend Developer</b><br>
-                @ Appaura.net <i>(Aug 2025 - Oct 2025)</i>
-            </td>
-            <td>Implemented authentication & analytics APIs using MongoDB.</td>
-        </tr>
-    </table>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
-
-    <table align="center">
-        <tr>
-            <th width="200">Project</th>
-            <th width="500">Description & Stack</th>
-        </tr>
-        <tr>
-            <td><b>🤖 RAG ChatBot</b></td>
-            <td>Production-ready retrieval pipeline with streaming responses.<br><i>Stack: FastAPI, FAISS, Transformers</i></td>
-        </tr>
-        <tr>
-            <td><b>🦴 Knee Osteoporosis</b></td>
-            <td>Medical image analysis model achieving 85% accuracy.<br><i>Stack: CNN, VGG16, Python</i></td>
-        </tr>
-        <tr>
-            <td><b>💊 Pharmacy Analytics</b></td>
-            <td>Automated KPI reporting service reducing manual work by 50%.<br><i>Stack: MongoDB Aggregations, Python</i></td>
-        </tr>
-    </table>
 </div>
 
 <br>
@@ -130,6 +90,9 @@
     <a href="https://github.com/israrhussain20110" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </a>
+    
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=israrhussain20110&label=Profile%20Views&color=0e75b6&style=flat" alt="israrhussain20110" />
 </div>
 
 <p align="center">
