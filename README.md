@@ -112,14 +112,6 @@
 
 <br>
 
-<div align="center">
-
-| **GitHub Statistics** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" /> |
-
-<br>
-
 | **Monthly Contribution Graph** |
 | :---: |
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=israrhussain20110&bg_color=transparent&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true&hide_title=true" width="800" /> |
