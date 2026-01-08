@@ -10,7 +10,7 @@
 
 <p align="center">
     <samp>
-        「 AI Engineer and RAG Specialist from <b>Pakistan</b> 」
+        「 AI Engineer from <b>Pakistan</b> 」
         <br>
         「 Bridging complex AI models with production-ready APIs 」
     </samp>
