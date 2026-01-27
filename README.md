@@ -42,7 +42,7 @@
         </tr>
         <tr>
             <td>
-                <b>AI Engineer Intern</b><br>
+                <b>AI Engineer</b><br>
                 @ DevGate <i>(Oct 2025 - Present)</i>
             </td>
             <td>
