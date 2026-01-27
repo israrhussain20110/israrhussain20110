@@ -84,7 +84,7 @@
             <th width="500">Description & Stack</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/israrhussain20110?tab=repositories"><b>🤖 RAG ChatBot</b></a></td>
+            <td><a href="https://github.com/israrhussain20110?tab=repositories"><b>🤖 Medical Assistant ChatBot</b></a></td>
             <td>
                 Production-ready <b>retrieval-augmented chat pipeline</b> with streaming responses.<br>
                 <i>Stack: FastAPI, FAISS, Transformers</i><br>
