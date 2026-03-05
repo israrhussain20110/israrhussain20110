@@ -1,366 +1,104 @@
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                        HEADER WAVE                         -->
-<!-- ════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Israr%20Hussain&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Building%20LLM%20Systems%20That%20Actually%20Work%20in%20Production&descSize=14&descAlign=50&descAlignY=57&animation=fadeIn&color=0:020c14,40:0a2233,100:0f3d2e"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Israr Hussain — AI Engineer</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --bg: #080e14;
+    --surface: #0d1821;
+    --surface2: #111d2a;
+    --border: #1a2d3f;
+    --teal: #2aa889;
+    --teal2: #599cab;
+    --teal3: #99d1ce;
+    --mint: #a8f0e0;
+    --text: #c9d8e3;
+    --muted: #5a7a8a;
+    --white: #eef4f7;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(42,168,137,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(42,168,137,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .container { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; position: relative; z-index: 1; }
+  .hero { text-align: center; padding: 60px 0 48px; position: relative; }
+  .hero-glow { position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 600px; height: 300px; background: radial-gradient(ellipse at center, rgba(42,168,137,0.12) 0%, transparent 70%); pointer-events: none; }
+  .status-pill { display: inline-flex; align-items: center; gap: 8px; background: rgba(42,168,137,0.08); border: 1px solid rgba(42,168,137,0.25); border-radius: 100px; padding: 6px 16px; font-size: 11px; color: var(--teal3); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 28px; animation: fadeDown 0.6s ease both; }
+  .status-dot { width: 7px; height: 7px; background: var(--teal); border-radius: 50%; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1);}50%{opacity:0.5;transform:scale(0.8);} }
+  .hero h1 { font-family:'Syne',sans-serif; font-size:clamp(42px,8vw,72px); font-weight:800; color:var(--white); line-height:1; letter-spacing:-0.03em; animation:fadeDown 0.6s 0.1s ease both; }
+  .hero h1 span { background: linear-gradient(135deg, var(--teal) 0%, var(--teal3) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+  .hero-subtitle { font-family:'Syne',sans-serif; font-size:14px; font-weight:600; color:var(--muted); letter-spacing:0.15em; text-transform:uppercase; margin-top:12px; animation:fadeDown 0.6s 0.2s ease both; }
+  .hero-summary { max-width:580px; margin:28px auto 0; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:20px 24px; text-align:left; animation:fadeDown 0.6s 0.3s ease both; position:relative; overflow:hidden; }
+  .hero-summary::before { content:''; position:absolute; top:0; left:0; right:0; height:1px; background:linear-gradient(90deg, transparent, var(--teal), transparent); }
+  .terminal-header { display:flex; align-items:center; gap:6px; margin-bottom:14px; padding-bottom:10px; border-bottom:1px solid var(--border); }
+  .dot { width:10px; height:10px; border-radius:50%; } .dot.red{background:#ff5f57;} .dot.yellow{background:#febc2e;} .dot.green{background:#28c840;} .terminal-title{font-size:10px;color:var(--muted);margin-left:8px;letter-spacing:0.05em;}
+  .terminal-line { font-size:12px; line-height:1.9; color:var(--text); } .terminal-line .prompt{color:var(--teal);} .terminal-line .key{color:var(--teal3);} .terminal-line .val{color:#e8c77d;} .terminal-line .str{color:#a8d8a8;} .terminal-line .bool{color:#f4a261;} .terminal-line .comment{color:var(--muted);}
+  .social-row { display:flex; justify-content:center; gap:10px; margin-top:28px; flex-wrap:wrap; animation:fadeDown 0.6s 0.4s ease both; }
+  .social-btn { display:inline-flex; align-items:center; gap:7px; padding:9px 18px; border-radius:8px; font-family:'Syne',sans-serif; font-size:12px; font-weight:600; text-decoration:none; letter-spacing:0.04em; transition:transform 0.2s,box-shadow 0.2s; border:1px solid transparent; }
+  .social-btn:hover{transform:translateY(-2px);}
+  .social-btn.github{background:#181717;border-color:#333;color:#fff;} .social-btn.github:hover{box-shadow:0 4px 20px rgba(255,255,255,0.1);}
+  .social-btn.linkedin{background:#0a66c2;color:#fff;} .social-btn.linkedin:hover{box-shadow:0 4px 20px rgba(10,102,194,0.4);}
+  .social-btn.email{background:transparent;border-color:var(--teal);color:var(--teal);} .social-btn.email:hover{background:rgba(42,168,137,0.08);box-shadow:0 4px 20px rgba(42,168,137,0.2);}
+  section{margin-top:56px;}
+  .section-label{display:flex;align-items:center;gap:12px;margin-bottom:24px;}
+  .section-label h2{font-family:'Syne',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:var(--teal);}
+  .section-line{flex:1;height:1px;background:linear-gradient(90deg, var(--border), transparent);}
+  .reveal{opacity:0;transform:translateY(20px);transition:opacity 0.5s ease, transform 0.5s ease;}
+  .reveal.visible{opacity:1;transform:translateY(0);}
+  @keyframes fadeDown{from{opacity:0;transform:translateY(-16px);}to{opacity:1;transform:translateY(0);}}
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-glow"></div>
+    <div class="status-pill"><span class="status-dot"></span> Available for Remote Opportunities</div>
+    <h1>Israr<br/><span>Hussain</span></h1>
+    <div class="hero-subtitle">Applied AI Engineer · Pakistan 🇵🇰</div>
+    <div class="hero-summary">
+      <div class="terminal-header">
+        <span class="dot red"></span>
+        <span class="dot yellow"></span>
+        <span class="dot green"></span>
+        <span class="terminal-title">profile.py</span>
+      </div>
+      <div class="terminal-line"><span class="key">class</span> <span class="val">AIEngineer</span>:</div>
+      <div class="terminal-line" style="padding-left:20px"><span class="prompt">name</span> = <span class="str">"Israr Hussain"</span></div>
+      <div class="terminal-line" style="padding-left:20px"><span class="prompt">focus</span> = <span class="str">["LLM Systems","RAG Pipelines","FastAPI"]</span></div>
+      <div class="terminal-line" style="padding-left:20px"><span class="prompt">mission</span> = <span class="str">"Turn AI research into production systems"</span></div>
+      <div class="terminal-line" style="padding-left:20px"><span class="prompt">open_to</span> = <span class="str">"Remote · Freelance · Collaboration"</span></div>
+      <div class="terminal-line" style="padding-left:20px"><span class="prompt">available</span> = <span class="bool">True</span> <span class="comment"># Let's build something</span></div>
+    </div>
+    <div class="social-row">
+      <a class="social-btn github" href="https://github.com/israrhussain20110" target="_blank">GitHub</a>
+      <a class="social-btn linkedin" href="https://linkedin.com/in/israr-hussain-40561a299" target="_blank">LinkedIn</a>
+      <a class="social-btn email" href="mailto:ahmedisrar20110@gmail.com">Email</a>
+    </div>
+  </div>
 </div>
-
-<!-- ════════════ STATUS + VIEWS ════════════ -->
-<div align="center">
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=🤖+LLM+Systems+%7C+RAG+Pipelines+%7C+FastAPI;🔍+Turning+AI+Research+into+Production+Reality;🌍+Pakistan+%7C+Open+to+Remote+%26+Freelance;⚡+Async+APIs+%7C+Vector+Search+%7C+Agent+Workflows)](https://github.com/israrhussain20110)
-
-<br/>
-
-![Available](https://img.shields.io/badge/●%20AVAILABLE%20FOR%20REMOTE-2aa889?style=for-the-badge&logoColor=white)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=israrhussain20110&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<!-- ════════════ CONNECT ════════════ -->
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedisrar20110@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israr-hussain-40561a299)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrhussain20110)
-
-</div>
-
----
-
-<!-- ════════════ HERO SUMMARY — SVG CARD ════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=2AA889&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=I+don't+just+fine-tune+models.;I+build+the+infrastructure+that+makes+them+reliable,;scalable,+and+worth+shipping+to+real+users." alt="summary"/>
-
-</div>
-
-<div align="center">
-
-| 🎯 Mission | 🔧 How |
-|:---:|:---:|
-| Turn cutting-edge AI into **reliable production systems** | RAG · LLM Agents · Async APIs · Vector Search |
-
-</div>
-
-<br/>
-
-<!-- ════════════ ABOUT BANNER CARDS ════════════ -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔍%20RAG%20Pipelines-Semantic%20Chunking%20·%20Vector%20Retrieval%20·%20Reranking%20·%20Streaming-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/⚡%20FastAPI%20Microservices-Async%20Design%20·%20Redis%20Caching%20·%2030%25%20Latency%20Reduction-009688?style=for-the-badge&labelColor=001a17"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🤖%20LLM%20Agents-LangChain%20·%20Tool%20Use%20·%20Memory%20·%20ReAct%20Patterns-6B3FA0?style=for-the-badge&labelColor=130a1a"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🏥%20Medical%20AI-Image%20Classification%20·%2085%25%20Accuracy%20·%20Diagnostic%20Tooling-c0392b?style=for-the-badge&labelColor=1a0a09"/>
-
-</div>
-
----
-
-<!-- ════════════ TECH STACK ════════════ -->
-## 🧰 Tech Stack
-
-<div align="center">
-
-### 🧠 &nbsp; LLM & GenAI &nbsp; 🧠
-
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/israrhussain20110)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/israrhussain20110)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/israrhussain20110)
-[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/israrhussain20110)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge)](https://github.com/israrhussain20110)
-[![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge)](https://github.com/israrhussain20110)
-
----
-
-### ⚙️ &nbsp; ML & Training &nbsp; ⚙️
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/israrhussain20110)
-[![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/israrhussain20110)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/israrhussain20110)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/israrhussain20110)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/israrhussain20110)
-
----
-
-### 🚀 &nbsp; Backend & APIs &nbsp; 🚀
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/israrhussain20110)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/israrhussain20110)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/israrhussain20110)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/israrhussain20110)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/israrhussain20110)
-
----
-
-### 🐳 &nbsp; DevOps & Infrastructure &nbsp; 🐳
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/israrhussain20110)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/israrhussain20110)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/israrhussain20110)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/israrhussain20110)
-
-</div>
-
----
-
-<!-- ════════════ PROJECTS ════════════ -->
-## 🚀 Featured Projects
-
----
-
-### 🔍 &nbsp; AI Incident Root Cause Investigator
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPE-LLM%20%2B%20RAG-6B3FA0?style=for-the-badge&labelColor=130a1a"/>
-</div>
-
-> Analyzes logs, Git commits & monitoring alerts to surface the **most probable root cause** of production incidents using semantic search and LLM reasoning.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vector%20Search](https://img.shields.io/badge/Vector%20Search-2aa889?style=flat-square)
-
-</td></tr><tr><td>
-
-```
-  ✅  Log & event ingestion from multiple sources
-  ✅  Semantic search across all incident data
-  ✅  LLM-based root cause detection & reasoning
-  ✅  Automatic incident timeline reconstruction
-```
-
-</td></tr></table>
-
----
-
-### 💬 &nbsp; Document Assistant Chatbot
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/USERS-100%2B%20Concurrent-009688?style=for-the-badge&labelColor=001a17"/>
-</div>
-
-> Production-ready **RAG pipeline** for querying large document collections — semantic chunking, FAISS retrieval, and streamed LLM responses.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td></tr><tr><td>
-
-```
-  ✅  Full document ingestion & chunking pipeline
-  ✅  Embedding generation & FAISS vector retrieval
-  ✅  Streamed LLM responses — 35% faster avg response
-  ✅  Scales to 100+ concurrent users
-```
-
-</td></tr></table>
-
----
-
-### 📦 &nbsp; AI Inventory Forecast System
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPE-MLOps%20Pipeline-EE4C2C?style=for-the-badge&labelColor=1a0909"/>
-</div>
-
-> ML pipeline that predicts inventory demand from historical operational data — fully automated, no manual intervention.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td></tr><tr><td>
-
-```
-  ✅  Time-series demand forecasting
-  ✅  Automated end-to-end ML pipeline
-  ✅  50% reduction in manual reporting effort
-  ✅  Integrated into operational analytics workflows
-```
-
-</td></tr></table>
-
----
-
-### 📝 &nbsp; Custom LLM Summarizer
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPE-NLP%20Pipeline-FF9D00?style=for-the-badge&labelColor=1a0f00"/>
-</div>
-
-> Handles documents too long for a single context window — hierarchical chunking with context-aware prompting for coherent summaries.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td></tr><tr><td>
-
-```
-  ✅  Hierarchical document chunking
-  ✅  Context-aware, multi-stage summarization
-  ✅  Handles arbitrarily long input documents
-```
-
-</td></tr></table>
-
----
-
-### 💊 &nbsp; Pharmacy Analytics Service
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/IMPACT-50%25%20Less%20Manual%20Work-47A248?style=for-the-badge&labelColor=001a09"/>
-</div>
-
-> Backend analytics platform that generates KPI reports and operational insights automatically from pharmacy data pipelines.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td></tr><tr><td>
-
-```
-  ✅  Automated KPI aggregation via MongoDB pipelines
-  ✅  Clean reporting APIs with structured output
-  ✅  50% reduction in manual reporting work
-```
-
-</td></tr></table>
-
----
-
-### 🦴 &nbsp; Knee Osteoporosis Classifier
-
-<div align="center">
-<img src="https://img.shields.io/badge/STATUS-SHIPPED-2aa889?style=for-the-badge&labelColor=0a1a14"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ACCURACY-85%25-c0392b?style=for-the-badge&labelColor=1a0a09"/>
-</div>
-
-> Medical image classification model for automated diagnostic pre-screening — reduces radiologist workload with CNN-powered analysis.
-
-<table><tr><td>
-
-**Stack** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CNN/VGG16](https://img.shields.io/badge/CNN%2FVGG16-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td></tr><tr><td>
-
-```
-  ✅  85% accuracy on validation dataset
-  ✅  CNN / VGG16 deep learning architecture
-  ✅  40% reduction in clinical evaluation time
-```
-
-</td></tr></table>
-
----
-
-<!-- ════════════ IMPACT NUMBERS ════════════ -->
-## 📊 Impact at a Glance
-
-<div align="center">
-
-![](https://img.shields.io/badge/🚀%20Projects%20Shipped-6%2B-2aa889?style=for-the-badge&labelColor=0a1a14)
-![](https://img.shields.io/badge/🎯%20Model%20Accuracy-85%25-599cab?style=for-the-badge&labelColor=0a1a14)
-![](https://img.shields.io/badge/👥%20Concurrent%20Users-100%2B-99d1ce?style=for-the-badge&labelColor=0a1a14)
-![](https://img.shields.io/badge/⚡%20API%20Latency%20Cut-30%25-2aa889?style=for-the-badge&labelColor=0a1a14)
-![](https://img.shields.io/badge/🔧%20Manual%20Work%20Saved-50%25-599cab?style=for-the-badge&labelColor=0a1a14)
-
-</div>
-
----
-
-<!-- ════════════ GITHUB STATS ════════════ -->
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2aa889&icon_color=599cab&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=2aa889&bg_color=0d1117" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=israrhussain20110&theme=github-dark-blue&hide_border=true&ring=2aa889&fire=599cab&currStreakLabel=2aa889&background=0d1117" width="500"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=israrhussain20110&bg_color=0d1117&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true&area_color=2aa88920" width="100%"/>
-
-</div>
-
----
-
-<!-- ════════════ CURRENT FOCUS ════════════ -->
-## 🎯 Currently Building
-
-<div align="center">
-
-| &nbsp; | Area | What I'm doing |
-|:---:|:---|:---|
-| 🔭 | **Scalable RAG Architectures** | Multi-stage retrieval, hybrid search, reranking pipelines |
-| 🤖 | **LLM Orchestration** | Reliable multi-agent systems with memory, tool use & reasoning |
-| ⚡ | **Production AI APIs** | High-throughput async services with full observability |
-| 🌱 | **Vector Databases** | Deep-diving Pinecone · Weaviate · Qdrant at scale |
-
-</div>
-
----
-
-<!-- ════════════ FOOTER CTA ════════════ -->
-<div align="center">
-
-<br/>
-
-### 💬 &nbsp; Let's Build Something That Matters
-
-*I'm always open to interesting problems at the intersection of AI and backend engineering.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📬%20ahmedisrar20110%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedisrar20110@gmail.com)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=The+goal+isn't+to+build+AI...;It's+to+build+systems+that+work.;—+Israr+Hussain)](https://github.com/israrhussain20110)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020c14,40:0a2233,100:0f3d2e"/>
-
-</div>
+<script>
+  const observer = new IntersectionObserver(entries => { entries.forEach(e => { if(e.isIntersecting) e.target.classList.add('visible'); }); }, { threshold:0.1 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+</script>
+</body>
+</html>
