@@ -1,152 +1,210 @@
-# Hi, I'm Israr Hussain 👋
-### AI Engineer | Applied AI Systems | LLM & Automation Architect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=Israr%20Hussain&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" />
+</div>
 
-I build **production-grade AI systems** that automate reasoning, analysis, and decision making.  
-My work focuses on **LLMs, RAG systems, AI automation, and scalable backend infrastructure**.
+<h2 align="center">Applied AI Engineer · LLM Systems · RAG · Backend Infrastructure</h2>
 
-I design systems that move beyond demos into **real-world AI products**.
+<p align="center">
+Building scalable AI systems — from LLM pipelines to production APIs.<br/>
+Focused on turning experimental AI models into reliable engineering systems.
+</p>
 
----
-
-## 🚀 What I Work On
-
-- Large Language Model Applications
-- Retrieval Augmented Generation (RAG)
-- AI Automation Systems
-- AI Agents & Autonomous Workflows
-- ML Forecasting & Predictive Analytics
-- AI-Driven Data Platforms
-- Backend Systems for AI Products
-
----
-
-## 🧠 Featured Projects
-
-### 🔍 AI Incident Root Cause Investigator
-AI system that analyzes **logs, git commits, and monitoring alerts** to reconstruct incident timelines and determine root causes.
-
-**Tech**
-- LangChain / LangGraph
-- RAG pipelines
-- Log analysis
-- OpenAI-compatible APIs
-- FastAPI
+<p align="center">
+  <a href="mailto:ahmedisrar20110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/israr-hussain-40561a299">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/israrhussain20110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🤖 Document Assistant Chatbot
-Enterprise document chatbot using **Retrieval Augmented Generation** to answer questions from large document collections.
+# About
 
-**Features**
-- Semantic document search
-- Context-aware responses
-- scalable ingestion pipeline
+AI Engineer focused on building **production-ready AI systems**.
 
-**Stack**
-- Python
-- FastAPI
-- Vector databases
-- LLM APIs
+My work centers on the hardest part of applied AI:
 
----
+**turning machine learning models into reliable software infrastructure.**
 
-### 📊 AI Inventory Forecast System
-Predictive system that forecasts **inventory demand using machine learning models**.
+Typical work includes:
 
-**Tech**
-- LSTM models
-- Time-series forecasting
-- Data pipelines
-- Python ML stack
+- Designing **Retrieval-Augmented Generation (RAG)** pipelines  
+- Building **LLM-powered APIs and intelligent agents**  
+- Developing **high-performance FastAPI microservices**  
+- Deploying AI systems with **Docker, async services, and caching layers**
+
+Previously worked on **medical AI and analytics systems**, including diagnostic image classification and healthcare reporting tools.
 
 ---
 
-### 📈 DataNexus Analysis Platform
-AI-powered data analysis system that automatically generates insights from datasets.
+# Core Expertise
 
-**Capabilities**
-- Automated analytics
-- LLM-generated reports
-- Data processing pipelines
+### AI Systems
+- Retrieval-Augmented Generation (RAG)
+- LLM agents and orchestration workflows
+- Semantic search and vector databases
+- Prompt engineering and evaluation
+
+### Backend Engineering
+- FastAPI async microservices
+- scalable AI API design
+- Redis caching strategies
+- database optimisation
+
+### Infrastructure
+- Docker deployments
+- Linux environments
+- CI/CD workflows
+- monitoring and reliability
 
 ---
 
-### 📚 Automated Book Generation System
-System that automatically generates **structured books using AI workflows**.
+# Featured Projects
 
-**Pipeline**
-- Topic research
-- chapter generation
-- content structuring
-- formatting automation
+## AI Incident Root Cause Investigator
+
+AI-powered system that analyzes logs, Git commits, and monitoring alerts to identify the most probable root causes of production incidents.
+
+Key capabilities:
+
+- log and event ingestion
+- semantic search across incident data
+- LLM-based reasoning for root cause detection
+- timeline reconstruction
+
+Stack:
+
+Python · FastAPI · LangChain · Vector Search
 
 ---
 
-## 🧰 Tech Stack
+## Document Assistant Chatbot
+
+Retrieval-Augmented Generation system for querying large document collections using semantic search and LLM reasoning.
+
+Features:
+
+- document ingestion pipeline
+- embedding generation
+- vector database retrieval
+- LLM response generation
+
+Stack:
+
+FastAPI · FAISS · Transformers · Python
+
+---
+
+## AI Inventory Forecast System
+
+Machine learning pipeline that predicts inventory demand using historical operational data.
+
+Capabilities:
+
+- time-series forecasting
+- automated prediction pipeline
+- operational analytics integration
+
+Stack:
+
+Python · ML models · data processing
+
+---
+
+## Custom LLM Summarizer
+
+LLM-powered system for summarizing large documents using chunking and contextual reasoning.
+
+Features:
+
+- long document processing
+- hierarchical summarization
+- context-aware prompting
+
+Stack:
+
+Transformers · Python · NLP pipelines
+
+---
+
+## Pharmacy Analytics Service
+
+Backend analytics platform that generates operational insights and KPI reports for pharmacy datasets.
+
+Capabilities:
+
+- automated KPI aggregation
+- reporting APIs
+- analytics pipeline automation
+
+Stack:
+
+FastAPI · MongoDB · Python
+
+---
+
+# Technology Stack
 
 ### Languages
-- Python
-- SQL
-- JavaScript
+Python · SQL · JavaScript
 
 ### AI / ML
-- PyTorch
-- Transformers
-- LangChain
-- LangGraph
-- LLM APIs
-- RAG architectures
+PyTorch  
+Transformers  
+LangChain  
+FAISS  
+OpenAI-compatible APIs  
 
 ### Backend
-- FastAPI
-- REST APIs
-- Microservices
+FastAPI  
+MongoDB  
+PostgreSQL  
+Redis  
 
-### Data & Infrastructure
-- PostgreSQL
-- Vector Databases
-- Docker
-- Linux
-
-### Frontend
-- React
-- Flutter
+### DevOps
+Docker  
+GitHub Actions  
+Linux  
 
 ---
 
-## 📊 Areas of Expertise
+# Current Focus
 
-- LLM System Design
-- Retrieval Augmented Generation
-- AI Automation
-- AI Product Engineering
-- ML Forecasting Systems
-- Backend Architecture for AI
+Currently building systems around:
 
----
-
-## 📂 Selected Public Repositories
-
-- **AI-Incident-Root-Cause-Investigator**
-- **Document-Assistant-Chatbot**
-- **AI-Inventory-Forecast-System**
-- **DataNexus-Analysis-Platform**
-- **Automated-Book-Generation-System**
-- **Custom-LLM-Summarizer**
+- scalable **RAG architectures**
+- **LLM orchestration workflows**
+- production **AI microservices**
+- AI-powered automation platforms
 
 ---
 
-## 📫 Contact
+# GitHub Activity
 
-- GitHub: https://github.com/israrhussain20110
-- LinkedIn: *(add your link here)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israrhussain20110&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrhussain20110&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=israrhussain20110&bg_color=0d1117&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true" width="780"/>
+</p>
 
 ---
 
-## ⚡ Philosophy
+<p align="center">
+Interested in collaborating on applied AI systems, LLM infrastructure, and production AI engineering.
+</p>
 
-I focus on **building AI systems that solve real operational problems**, not just experiments.
+<p align="center">
+<a href="mailto:ahmedisrar20110@gmail.com">ahmedisrar20110@gmail.com</a>
+</p>
 
-The goal is simple:
-
-**Turn AI research into reliable, production software.**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+</div>
