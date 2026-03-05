@@ -5,33 +5,40 @@
 <h2 align="center">Applied AI Engineer · LLM Systems · RAG · Backend Infrastructure</h2>
 
 <p align="center">
-Building production-grade AI systems — from LLM pipelines to scalable APIs.<br/>
-Focused on turning experimental AI models into reliable software systems.
+Building scalable AI systems — from LLM pipelines to production APIs.<br/>
+Focused on turning experimental AI models into reliable engineering systems.
 </p>
 
 <p align="center">
-  <a href="mailto:ahmedisrar20110@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/israr-hussain-40561a299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/israrhussain20110"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:ahmedisrar20110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/israr-hussain-40561a299">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/israrhussain20110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # About
 
-AI Engineer specializing in **LLM-powered applications, retrieval systems, and backend AI infrastructure**.
+AI Engineer focused on building **production-ready AI systems**.
 
-My work focuses on solving the hardest part of applied AI:  
-**turning machine learning models into reliable production systems.**
+My work centers on the hardest part of applied AI:
 
-Areas I typically work on:
+**turning machine learning models into reliable software infrastructure.**
 
-- Designing **RAG pipelines** and semantic search systems
-- Building **LLM-powered APIs and agents**
-- Creating **high-performance FastAPI microservices**
-- Deploying AI systems with **Docker, async backends, and caching**
+Typical work includes:
 
-Previously worked on **medical AI systems**, including diagnostic image classification models.
+- Designing **Retrieval-Augmented Generation (RAG)** pipelines  
+- Building **LLM-powered APIs and intelligent agents**  
+- Developing **high-performance FastAPI microservices**  
+- Deploying AI systems with **Docker, async services, and caching layers**
+
+Previously worked on **medical AI and analytics systems**, including diagnostic image classification and healthcare reporting tools.
 
 ---
 
@@ -39,89 +46,109 @@ Previously worked on **medical AI systems**, including diagnostic image classifi
 
 ### AI Systems
 - Retrieval-Augmented Generation (RAG)
-- LLM APIs and agent pipelines
-- Embedding search and vector databases
+- LLM agents and orchestration workflows
+- Semantic search and vector databases
 - Prompt engineering and evaluation
 
 ### Backend Engineering
 - FastAPI async microservices
-- API design for AI systems
+- scalable AI API design
 - Redis caching strategies
-- database performance optimisation
+- database optimisation
 
 ### Infrastructure
-- Dockerized deployments
-- Linux-based environments
+- Docker deployments
+- Linux environments
 - CI/CD workflows
-- production monitoring
+- monitoring and reliability
 
 ---
 
-# Selected Projects
+# Featured Projects
 
-## Medical Assistant Chatbot
+## AI Incident Root Cause Investigator
 
-Production-style **RAG system** designed for medical question answering.
+AI-powered system that analyzes logs, Git commits, and monitoring alerts to identify the most probable root causes of production incidents.
+
+Key capabilities:
+
+- log and event ingestion
+- semantic search across incident data
+- LLM-based reasoning for root cause detection
+- timeline reconstruction
+
+Stack:
+
+Python · FastAPI · LangChain · Vector Search
+
+---
+
+## Document Assistant Chatbot
+
+Retrieval-Augmented Generation system for querying large document collections using semantic search and LLM reasoning.
 
 Features:
 
-- semantic document retrieval
-- chunked indexing pipeline
-- streaming LLM responses
-- Redis caching layer
+- document ingestion pipeline
+- embedding generation
+- vector database retrieval
+- LLM response generation
 
 Stack:
 
-FastAPI · FAISS · HuggingFace · Python · Redis
-
-Impact:
-
-- reduced response latency by **35%**
-- handles **100+ concurrent users**
+FastAPI · FAISS · Transformers · Python
 
 ---
 
-## Knee Osteoporosis Detection
+## AI Inventory Forecast System
 
-Deep learning pipeline for **automated medical image analysis**.
+Machine learning pipeline that predicts inventory demand using historical operational data.
 
-- CNN model based on **VGG16 architecture**
-- trained on labelled knee X-ray dataset
-- automated pre-screening workflow
+Capabilities:
 
-Results:
-
-- **85% classification accuracy**
-- reduced manual evaluation workload by **~40%**
+- time-series forecasting
+- automated prediction pipeline
+- operational analytics integration
 
 Stack:
 
-PyTorch · Python · Computer Vision
+Python · ML models · data processing
 
 ---
 
-## Pharmacy Analytics Automation
+## Custom LLM Summarizer
 
-Backend service that generates operational analytics for pharmacy data.
+LLM-powered system for summarizing large documents using chunking and contextual reasoning.
+
+Features:
+
+- long document processing
+- hierarchical summarization
+- context-aware prompting
+
+Stack:
+
+Transformers · Python · NLP pipelines
+
+---
+
+## Pharmacy Analytics Service
+
+Backend analytics platform that generates operational insights and KPI reports for pharmacy datasets.
 
 Capabilities:
 
 - automated KPI aggregation
-- batch analytics processing
-- reporting API
-
-Impact:
-
-- removed **50% manual reporting workload**
-- improved data consistency across analytics pipeline
+- reporting APIs
+- analytics pipeline automation
 
 Stack:
 
-MongoDB · Python · FastAPI
+FastAPI · MongoDB · Python
 
 ---
 
-# Tech Stack
+# Technology Stack
 
 ### Languages
 Python · SQL · JavaScript
@@ -131,18 +158,18 @@ PyTorch
 Transformers  
 LangChain  
 FAISS  
-OpenAI-compatible APIs
+OpenAI-compatible APIs  
 
 ### Backend
 FastAPI  
 MongoDB  
 PostgreSQL  
-Redis
+Redis  
 
 ### DevOps
 Docker  
 GitHub Actions  
-Linux
+Linux  
 
 ---
 
@@ -153,7 +180,7 @@ Currently building systems around:
 - scalable **RAG architectures**
 - **LLM orchestration workflows**
 - production **AI microservices**
-- applied **AI automation tools**
+- AI-powered automation platforms
 
 ---
 
