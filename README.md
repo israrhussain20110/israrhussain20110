@@ -30,21 +30,6 @@
 
 </div>
 
----
-
-<!-- IMPACT METRICS STRIP -->
-<div align="center">
-
-### 📊 &nbsp; Impact at a Glance
-
-| ⚡ Voice Latency | 🏢 Client Engagements | 🔴 Live in Production | 🎯 ML Accuracy | ✂️ Manual Work Saved |
-|:---:|:---:|:---:|:---:|:---:|
-| **sub-300ms** | **5+** | **Yes** | **85%** | **50%** |
-
-</div>
-
----
-
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
